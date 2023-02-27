@@ -27,7 +27,7 @@
   "dependencies": {
     "@aave/contract-helpers": "1.4.0",
     "@aave/math-utils": "1.4.0",
-    "@apollo/client": "^3.5.10",
+    "@apollo/client": "^3.7.9",
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
     "@emotion/server": "latest",
